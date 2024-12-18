@@ -30,8 +30,8 @@ filetype plugin indent on    " required
 " --------------------------------------------------
 " FZF Config.
 " --------------------------------------------------
-# NOTE(S):
-# - This assumes that `fzf` has already been installed (ie. via homebrew).
+" NOTE(S):
+" - This assumes that `fzf` has already been installed (ie. via homebrew).
 set rtp+=/usr/local/opt/fzf
 
 " --------------------------------------------------
